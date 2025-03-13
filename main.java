@@ -40,3 +40,4 @@ public class Main {
         System.out.println("Longest segment length: " + longest.length());
     }
 }
+// https://github.com/mdpiekarz/java_lab_2025
